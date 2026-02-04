@@ -2,7 +2,9 @@
   "permissions": {
     "allow": [
       "WebFetch(domain:www.linkedin.com)",
-      "Bash(ls:*)"
+      "Bash(ls:*)",
+      "mcp__filesystem__list_directory",
+      "mcp__filesystem__get_file_info"
     ]
   }
 }
