@@ -1,4 +1,11 @@
-# LinkedIn Job Hunt - Perplexity Comet Master Prompt
+# LinkedIn Job Hunt - Perplexity Comet Master Prompt (Multi-Phase)
+
+## 🎯 NEW APPROACH: Multi-Phase Deep Search
+
+Based on Comet's feedback, this prompt now uses a **3-PHASE APPROACH** to overcome search limitations:
+- **Phase 1:** Broad scan across role types and geographies
+- **Phase 2:** Deep dive into top 25 matches with full details
+- **Phase 3:** Actionable next steps with direct application URLs
 
 ## HOW TO USE THIS PROMPT
 
