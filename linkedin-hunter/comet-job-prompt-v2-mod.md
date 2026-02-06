@@ -59,6 +59,7 @@ CRITICAL EXCLUSIONS - DO NOT SHOW:
 ❌ Roles requiring personal financial investment ("invest ₹10L to join as co-founder")
 ❌ Sweat equity only (no salary component)
 ❌ BDS/MDS dentistry-specific positions (candidate is MBBS medical)
+❌ Any role requiring MD, MS or PhD degrees (Candidate is MBBS plus MBA, NOT MD and NOT PhD)
 ❌ "Big 4 alumni required" or "Ex-MBB consultant only" (he has strategic consulting skills but not formal Big 4/MBB)
 ❌ Pure clinical practice roles (no strategy/leadership)
 ❌ Medical writing, coding, billing, pharma sales
@@ -141,6 +142,7 @@ EXCLUDE:
 ❌ Pure clinical practice
 ❌ Contract/temporary positions
 ❌ Delhi, Mumbai, NCR locations
+❌ Any role requiring MD, MS or PhD degrees (Dr Vikas is MBBS plus MBA, NOT MD and NOT PhD)
 
 PRIORITY SIGNALS (Score 90-100):
 🔥 Equity + competitive salary explicitly mentioned
