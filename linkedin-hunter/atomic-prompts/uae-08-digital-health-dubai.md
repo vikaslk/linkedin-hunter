@@ -63,7 +63,7 @@ Corporate digital arms: hospital chains launching digital divisions
 Regional platforms: companies with Dubai as regional HQ
 
 FILTERS:
-• Date: Past 10 days
+• Date: Past 7 days
 • Seniority: Director, VP, Executive, C-Suite
 • Job Type: Full-time
 • Industry: Hospital & Health Care, Information Technology & Services

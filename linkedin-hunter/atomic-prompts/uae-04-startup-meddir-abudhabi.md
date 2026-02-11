@@ -59,7 +59,7 @@ COMPANIES TO WATCH:
 HealthHub (Mubadala), Cleveland Clinic Abu Dhabi, SEHA, Pure Health, Abu Dhabi Health Services, Malaffi, DoH (Department of Health Abu Dhabi)
 
 FILTERS:
-• Date: Past 10 days
+• Date: Past 30 days
 • Seniority: Director, VP, Executive
 • Job Type: Full-time
 • Industry: Hospital & Health Care, Government Administration, Information Technology

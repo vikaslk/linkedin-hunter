@@ -59,7 +59,7 @@ COMPANIES TO WATCH (check their LinkedIn pages for open roles):
 HealthHub (Mubadala), Cleveland Clinic Abu Dhabi, SEHA digital health initiatives, Abu Dhabi Health Services, Malaffi (health information exchange), Pure Health
 
 FILTERS:
-• Date: Past 10 days
+• Date: Past 30 days
 • Seniority: VP, Executive, C-Suite
 • Job Type: Full-time
 • Industry: Hospital & Health Care, Information Technology & Services, Government Administration
